@@ -32,3 +32,5 @@
 7. Cierra todas las sesiones clickeando en el botón azul que está un poco mas arriba.
 8. Para mayor seguridad, se recomienda activar los 2 metodos de la sección "**Seguridad adicional**" (cuenta sin contraseña y verificación en dos pasos)
 9. Vuelve a la [sección principal](../)
+
+include: [".gitbook"]

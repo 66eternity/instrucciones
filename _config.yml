@@ -7,5 +7,5 @@ include: [".gitbook"]
 
 # Personalización de colores (Sustituye los códigos HEX por los que desees)
 header_text_color: "#FFFFFF"
-header_bg_color: "#282c34"          # Color de fondo sólido o inicio del fade
-header_bg_color_secondary: "#1c1f24" # Color final del fade
+header_bg_color: "#C2961B"          # Color de fondo sólido o inicio del fade
+header_bg_color_secondary: "#" # Color final del fade

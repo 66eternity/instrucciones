@@ -2,8 +2,8 @@
 
 1. Ingresa al siguiente [link](https://account.live.com/names/manage?mkt=en-US\&refd=account.microsoft.com\&refp=profile).
 2. Al ingresar encontraras una página similar a esta, pero en español. Debes clickear en "add email" o "añadir correo".
-<figure><img src="../.gitbook/assets/image1.png" alt=""><figcaption></figcaption></figure>
-3. Despues de clickear en añadir correo, serás redirigido a una nueva pagina. Debes seleccionar la opción "añadir una dirección de correo existente como alias de Microsoft".
+![Paso 2](../.gitbook/assets/image1.png)
+4. Despues de clickear en añadir correo, serás redirigido a una nueva pagina. Debes seleccionar la opción "añadir una dirección de correo existente como alias de Microsoft".
 <figure><img src="../.gitbook/assets/image2.png" alt=""><figcaption></figcaption></figure>
 4. Clickea en "verificar". Vas a recibir un link para confirmar tu nueva dirección de correo.<br>
 <figure><img src="../.gitbook/assets/image3.png" alt=""><figcaption></figcaption></figure>
@@ -23,5 +23,4 @@
 7. Cierra todas las sesiones clickeando en el botón azul que está un poco mas arriba.
 8. Para mayor seguridad, se recomienda activar los 2 metodos de la sección "**Seguridad adicional**" (cuenta sin contraseña y verificación en dos pasos)
 9. Vuelve a la [sección principal](../)
-
 

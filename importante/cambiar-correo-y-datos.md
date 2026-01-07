@@ -3,12 +3,16 @@
 1. Ingresa al siguiente [link](https://account.live.com/names/manage?mkt=en-US\&refd=account.microsoft.com\&refp=profile).
 2. Al ingresar encontraras una página similar a esta, pero en español. Debes clickear en "add email" o "añadir correo".
 ![Paso 2](../.gitbook/assets/image1.png)
+
 3. Despues de clickear en añadir correo, serás redirigido a una nueva pagina. Debes seleccionar la opción "añadir una dirección de correo existente como alias de Microsoft".
 ![Paso 3](../.gitbook/assets/image2.png)
+
 4. Clickea en "verificar". Vas a recibir un link para confirmar tu nueva dirección de correo.<br>
-![Paso 4(../.gitbook/assets/image3.png)
+![Paso 4](../.gitbook/assets/image3.png)
+
 5. Clickea en "convertir principal". Es posible que no te deje y te aparezca un error. De ser así, vuelve a intentar en una semana. **¡Es importante que lo dejes como principal!**
 ![Paso 5](../.gitbook/assets/image4.png)
+
 6. Remueve todos los demas correos, solo deja el tuyo.
 ![Paso 6](../.gitbook/assets/image5.png)
 

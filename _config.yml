@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: instrucciones
 show_downloads: false
+include: [".gitbook"]

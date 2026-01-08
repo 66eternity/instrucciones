@@ -28,3 +28,11 @@
 8. Para mayor seguridad, se recomienda activar los 2 metodos de la sección "**Seguridad adicional**" (cuenta sin contraseña y verificación en dos pasos)
 9. Vuelve a la [sección principal](../)
 
+<script>
+  document.querySelectorAll('a').forEach(link => {
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>

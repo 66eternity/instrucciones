@@ -12,3 +12,12 @@ description: >-
 4. Para cambiar el nombre y la skin, [clickea acá](https://www.minecraft.net/es-es/msaprofile).
 
 ## ¡Eso es todo! A jugar 🥳
+
+<script>
+  document.querySelectorAll('a').forEach(link => {
+    if (link.hostname !== window.location.hostname) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>
